@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-darkslategray-100: #42463b;
+  --color-darkslategray-200: #312f2b;
+  --color-goldenrod: #f6b347;
+
+  /* Gaps */
+  --gap-11xs: 2px;
+  --gap-41xl: 60px;
+
+  /* Paddings */
+  --padding-11xl: 30px;
+  --padding-3xs: 10px;
+}
